@@ -1,3 +1,11 @@
+API que consome os dados da api (https://github.com/GabrielF13/ApiClientBack-End) na qual mostra todos os dados, podendo criar, editar e exluir alunos
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
