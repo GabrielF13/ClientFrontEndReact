@@ -1,4 +1,4 @@
-API que consome os dados da api (https://github.com/GabrielF13/ApiClientBack-End) na qual mostra todos os dados, podendo criar, editar e exluir alunos
+Pagina que consome os dados da api (https://github.com/GabrielF13/ApiClientBack-End) na qual mostra todos os dados, podendo criar, editar e exluir alunos
 
 
 
